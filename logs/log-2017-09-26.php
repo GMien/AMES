@@ -1,0 +1,12 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-09-26 00:21:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home1/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-09-26 00:22:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home1/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-09-26 00:22:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home1/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-09-26 00:23:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home1/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-09-26 00:28:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home1/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-09-26 00:29:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home1/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-09-26 00:29:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home1/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-09-26 01:28:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home1/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-09-26 02:17:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home1/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-09-26 04:08:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home1/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91

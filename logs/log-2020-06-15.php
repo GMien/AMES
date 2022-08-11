@@ -1,0 +1,10 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2020-06-15 08:02:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home4/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2020-06-15 08:02:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home4/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2020-06-15 08:02:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home4/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2020-06-15 08:02:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home4/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2020-06-15 08:02:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home4/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2020-06-15 08:02:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home4/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2020-06-15 08:02:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home4/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2020-06-15 22:35:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home4/arsdmsco/public_html/ames/system/database/drivers/mysql/mysql_driver.php 91
